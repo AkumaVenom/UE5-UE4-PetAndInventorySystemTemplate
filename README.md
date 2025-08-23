@@ -1,4 +1,4 @@
-# UE4-PetAndInventorySystemTemplate
+# UE5-UE4-PetAndInventorySystemTemplate
 
 Pet System & Item Inventory System Template For UE4.27 & UE5.5 - Technically you can create a Pokémon-like game from this pet system.
 
