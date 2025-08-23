@@ -4,6 +4,6 @@ Pet System & Item Inventory System Template For UE4.27 & UE5.5 - Technically you
 
 The project was originally created with UE4.21 but has been tested it can easily be converted to UE4.27 & UE5.5 and works.
 
-Important note for UE5.5: DO NOT create children of pet_parent_BP and Item_Master_BP but instead create a duplicate of an already made child of those BP Parents and edit the new duplicates instead, That is the only work around to make the Pet and Item inventory systems work on UE5
+Important note for UE5.5: DO NOT create children of pet_parent_BP and Item_Master_BP but instead create a duplicate of an already made child of those BP Parents and edit the new duplicates instead, That is the only work around to make the Pet and Item inventory systems work on UE5 but it is an easy and simple work around to follow.
 
 [https://discord.gg/Uf8Q8usSmk](https://discord.gg/Uf8Q8usSmk)
